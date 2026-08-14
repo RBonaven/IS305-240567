@@ -4,6 +4,7 @@
   Student ID: 240567
   Date: 20 July 2026
 */
+
 const readline = require("readline");
 const Student = require("./student");
 const MealBooking = require("./mealDining");

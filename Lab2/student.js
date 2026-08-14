@@ -2,7 +2,7 @@ class Student {
     #studentId;
     #firstName;
     #lastName;
-
+    
     constructor(studentId, firstName, lastName) {
         this.studentId = studentId;
         this.firstName = firstName;

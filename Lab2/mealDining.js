@@ -5,7 +5,7 @@ class MealBooking {
     #quantity;
     #dietaryNote;
     #bookingStatus;
-
+    
     constructor(
         student,
         mealDate,
